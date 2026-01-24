@@ -1,0 +1,5 @@
+/* This project develops an AI-based music recommendation system that 
+understands music directly from audio signals instead of relying on tags or metadata. 
+It extracts mathematical and signal-based features from songs, represents them as embedding 
+vectors, and groups similar music using similarity techniques. User preferences are learned within 
+this feature space to generate personalized and explainable recommendations based on musical properties */
