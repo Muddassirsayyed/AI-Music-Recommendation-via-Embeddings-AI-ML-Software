@@ -1,6 +1,6 @@
 """
-Quick Demo: Audio Feature Extraction with Synthetic Audio
-No file loading - just numpy-based feature extraction
+This is numpy based system so There is no Loding screen.
+So no buffer tension
 """
 
 import numpy as np
@@ -67,3 +67,4 @@ except Exception as e:
     print(f"❌ Error: {str(e)}")
     import traceback
     traceback.print_exc()
+
